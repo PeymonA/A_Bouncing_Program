@@ -1,1 +1,2 @@
 # A_Bouncing_Program
+This assignment involved working with design patterns and Java's Swing API. I was required to complete and extend the application in a way that makes appropriate use of design principles and patterns. A3 is a model/view application that presents two views of a list of bouncing shapes in the program. Such applications are commonplace and introduce the need for views to be mutually consistent and synchronised with a data structure whose state changes at run-time.
